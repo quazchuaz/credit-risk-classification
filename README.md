@@ -14,6 +14,7 @@
 
 ## Results
 * Machine Learning Model 1 - Logistic Regression with Original Data:
+  
 •	Balanced Accuracy = 95.20 %
 
 •	Accuracy = 99%
@@ -28,6 +29,7 @@
 
 
 * Machine Learning Model 2 - Logistic Regression with Resampled Data:
+  
 •	Balanced Accuracy = 99.37%
 
 •	Accuracy = 99%
