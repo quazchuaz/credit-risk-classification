@@ -14,22 +14,30 @@
 
 ## Results
 * Machine Learning Model 1 - Logistic Regression with Original Data:
-•	Balanced Accuracy = 95.20 % 
+•	Balanced Accuracy = 95.20 %
+
 •	Accuracy = 99%
+
 •	Precision (Healthy Loans) = 100%
+
 •	Recall (Healthy Loans) = 99% 
+
 •	Precision (High Risk Loans) = 85%
+
 •	Recall (High Risk Loans) = 91%
 
 
-
 * Machine Learning Model 2 - Logistic Regression with Resampled Data:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
-•	Balanced Accuracy = 99.37% 
+•	Balanced Accuracy = 99.37%
+
 •	Accuracy = 99%
+
 •	Precision (Healthy Loans) = 100%
+
 •	Recall (Healthy Loans) = 99% 
+
 •	Precision (High Risk Loans) = 84%
+
 •	Recall (High Risk Loans) = 99%
 
 ## Summary
