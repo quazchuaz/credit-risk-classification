@@ -42,7 +42,7 @@
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 * Both Models have strong explanatory power as described by the scores outlined above. Due to the imbalance of counts between healthy and high-risk loans in the dataset Model 2 seems to perform marginally better overall. The precision score for high-risk loans is only 1% lower however there is a significant gain of 8% in the recall score for this type of loan. This means that the risk of false negatives is lower, which in our case translates to the risk of extending credit by mistake to someone who actually has a high risk of default.
+  
 * It should be noted that evaluating the performance of the model does depend on the specific problem that the model is trying to solve. Depending on this, the relative importance of accurately predicting healthy against high risk loans becomes important. The 1% lower precision value for high-risk loans may matter more if the risk of false positives is more important. In this case a false positive would be the risk of misclassifying a creditworthy customer as one who has high default risk, thereby reducing sales.
 In the end, the performance of the model is dependent on the specific question that is being asked of it.
